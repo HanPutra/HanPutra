@@ -23,8 +23,8 @@ Contact : putra@sloth.my.id
 
 ### Donate :
 <p>
-    <a href="https://saweria.co/@hanputra_id" target="blank"><img src="https://img.shields.io/badge/Saweria-%23FBAE2C.svg?style=flat" /></a>
-    <a href="https://trakteer.id/@hanputra_id" target="blank"><img src="https://img.shields.io/badge/Trakteer-%23D53541.svg?style=flat" /></a>
+    <a href="https://saweria.co/hanputra" target="blank"><img src="https://img.shields.io/badge/Saweria-%23FBAE2C.svg?style=flat" /></a>
+    <a href="https://trakteer.id/hanputra" target="blank"><img src="https://img.shields.io/badge/Trakteer-%23D53541.svg?style=flat" /></a>
 </p>
 <p>
     <img src="https://gpvc.arturio.dev/HanPutra" />
