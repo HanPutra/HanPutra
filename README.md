@@ -1,10 +1,8 @@
 # Hi there 👋 , I'm HanPutra!
 
 _Coding and Learning_
-___
-<p>
-    <img src="https://gpvc.arturio.dev/HanPutra" />
-</p>
+
+---
 
 ### Stats:
 <p>
@@ -27,6 +25,9 @@ Contact : putra@sloth.my.id
 - [Saweria](https://saweria.co/hanputra)
 - [Trakteer](https://trakteer.id/hanputra)
 
+<p>
+    <img src="https://gpvc.arturio.dev/HanPutra" />
+</p>
 
 <i> </> © HanPutra
 
