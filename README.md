@@ -22,9 +22,10 @@ Wanna Hire Me ?
 Contact : putra@sloth.my.id
 
 ### Donate :
-- [Saweria](https://saweria.co/hanputra)
-- [Trakteer](https://trakteer.id/hanputra)
-
+<p>
+    <a href="https://saweria.co/@hanputra_id" target="blank"><img src="https://img.shields.io/badge/Saweria-%23E4405F.svg?style=flat" /></a>
+<a href="https://trakteer.com/@hanputra_id" target="blank"><img src="https://img.shields.io/badge/Trakteer-%23E4405F.svg?style=flat" /></a>
+</p>
 <p>
     <img src="https://gpvc.arturio.dev/HanPutra" />
 </p>
