@@ -13,7 +13,7 @@ _Coding and Learning_
 ### Let's connect!
 <p>
     <a href="https://hanputra.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://hanputra.my.id-red?" /></a>
-    <a href="https://instagram.com/han.dika.putra" target="blank"><img src="https://img.shields.io/badge/@han.dika.putra-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+    <a href="https://instagram.com/dev.hanputra" target="blank"><img src="https://img.shields.io/badge/@dev.hanputra-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
     <a href="https://wa.me/+18188600080" target="blank"><img src="https://img.shields.io/badge/Putra-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
 
