@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Handika Putra</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A Tech Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanputra&label=Profile%20views&color=0e75b6&style=flat" alt="hanputra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanputra" alt="hanputra" /></a> </p>
 
-- 🔭 I’m currently working as a **Freelancer**
-
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **algorithm**
 
 - 👨‍💻 All of my projects are available at [https://handikaputra.my.id](https://handikaputra.my.id)
 
@@ -15,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mochamad handika putra irwansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochamad handika putra irwansyah" height="30" width="40" /></a>
-<a href="https://instagram.com/devhandikaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devhandikaputra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devhandikaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devhandikaputra" height="30" width="40" /></a>
+<a href="https://instagram.com/m.handikaputra.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.handikaputra.i" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
