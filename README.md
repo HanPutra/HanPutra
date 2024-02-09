@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://handikaputra.my.id](https://handikaputra.my.id)
 
-- 📫 How to reach me **dev@handikaputra.my.id**
+- 📫 How to reach me **moch.handika.putra.i@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
