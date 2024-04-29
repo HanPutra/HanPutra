@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **algorithm**
 
-- 👨‍💻 All of my projects are available at [https://handikaputra.my.id](https://handikaputra.my.id)
+- 👨‍💻 All of my projects are available at [https://handikaputra.my.id](coming soon)
 
 - 📫 How to reach me **moch.handika.putra.i@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devhandikaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devhandikaputra" height="30" width="40" /></a>
-<a href="https://instagram.com/m.handikaputra.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.handikaputra.i" height="30" width="40" /></a>
+<a href="https://instagram.com/m.handikaputra.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.putra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
